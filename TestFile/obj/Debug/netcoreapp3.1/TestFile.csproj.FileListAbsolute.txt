@@ -1,0 +1,15 @@
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.exe
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.deps.json
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.runtimeconfig.json
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.runtimeconfig.dev.json
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.dll
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\TestFile.pdb
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.AssemblyInfoInputs.cache
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.AssemblyInfo.cs
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.csproj.CoreCompileInputs.cache
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.dll
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.pdb
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.genruntimeconfig.cache
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\obj\Debug\netcoreapp3.1\TestFile.csprojAssemblyReference.cache
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\order.csv
+C:\Users\Shujaul\source\repos\LeetCode\TestFile\TestFile\bin\Debug\netcoreapp3.1\StandardDataSet.csv
